@@ -1,3 +1,3 @@
 #Pytorch
 
-Just a repo for learning how pytorch / neural nets work
+Just a repo for learning how pytorch and neural nets work
